@@ -1,0 +1,9 @@
+# 本周任务
+* 实现pos的分类
+* 阅读STNBNN的论文
+
+# 进度
+### 初步实现pos分类
+* 分类器 GaussianNB
+* 特征：LEFT_HAND的四个点的z坐标轨迹的均值和最大值
+![tu]('F:\xingweishibie\pictographize\Figure_1.png')
